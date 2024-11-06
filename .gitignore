@@ -2,3 +2,4 @@ __MACOSX
 final_provider
 *.zip
 catboost_info
+venv
