@@ -32,3 +32,6 @@ Criterios de evaluación:
 - 0.85 ≤ AUC-ROC < 0.87 — 5 SP
 - 0.87 ≤ AUC-ROC < 0.88 — 5.5 SP
 - AUC-ROC ≥ 0.88 — 6 SP
+
+<!-- TODO: Toma tu ipynb y sepáralo en múltiuples archivos, para modularizar tu código. Usa archivos .py, como expliqué en clases y en estos dos videos: https://www.youtube.com/watch?v=rPEyYGG-w3s - https://www.youtube.com/watch?v=MY4nMmF8gOU -->
+<!-- TODO: Una vez que todo esté modularizado, en tu README pon qué pasos debe seguir el usuario para reproducir tu proyecto. Qué setup tiene que hacer y qué línea de código en la terminal le servirá para ejecutar qué cosa? -->
